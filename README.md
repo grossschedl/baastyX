@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @baastyX, an Austrian Student and Software Developer
-- 👀 I’m interested in C, Python, Java and Web Development
-- 🌱 I’m currently learning Python and Java
+- 👋 Hi, I’m @grossschedl, an Austrian Student and Software Developer
+- 👀 I’m interested in C++, Java and Web Development
+- 🌱 I’m currently learning WebDev and Java
 - 📫 How to reach me sebastian.grossschedl@outlook.de
 
 <!---
